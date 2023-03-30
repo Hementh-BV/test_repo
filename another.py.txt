@@ -1,4 +1,4 @@
 print("Hello")
 print("Hello")
-print("Hello")
-print("Hello")
+print("text1")
+print("text")
